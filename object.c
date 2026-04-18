@@ -225,3 +225,5 @@ int object_read(const ObjectID *id, ObjectType *type_out, void **data_out, size_
 //
 // The caller is responsible for calling free(*data_out).
 // Returns 0 on success, -1 on error (file not found, corrupt, etc.).
+//hashing added
+
