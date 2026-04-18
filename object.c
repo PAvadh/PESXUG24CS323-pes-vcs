@@ -59,7 +59,7 @@ int object_exists(const ObjectID *id) {
     object_path(id, path, sizeof(path));
     return access(path, F_OK) == 0;
 }
-
+//step 1
 int object_write(ObjectType type, const void *data, size_t len, ObjectID *id_out) {
 
     // 1. Create header
