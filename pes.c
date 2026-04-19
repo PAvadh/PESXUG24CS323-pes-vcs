@@ -3,7 +3,7 @@
 // This file is PROVIDED. Do not modify.
 //step-1
 //step-2
-//step 3
+//step-3
 
 #include "pes.h"
 #include "index.h"
