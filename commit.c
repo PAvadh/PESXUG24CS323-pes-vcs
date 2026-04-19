@@ -1,7 +1,7 @@
 // commit.c — Commit creation and history traversal
 //
 //step 1
-
+//step 2
 // Commit object format (stored as text, one field per line):
 //
 //   tree <64-char-hex-hash>
