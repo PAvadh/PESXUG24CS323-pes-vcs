@@ -1,7 +1,7 @@
 // pes.c — CLI entry point and command dispatch
 //
 // This file is PROVIDED. Do not modify.
-//step 1
+//step-1
 //step 2
 //step 3
 
